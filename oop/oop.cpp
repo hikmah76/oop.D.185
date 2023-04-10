@@ -17,7 +17,6 @@ public:
     string kode;
     string namaMK;
 public:
-
 };
 int main()
 {
