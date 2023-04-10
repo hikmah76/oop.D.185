@@ -12,6 +12,9 @@ public:
 };
 
 class Matakuliah {
+public: 
+    int nim;
+    string nama
 
 };
 int main()
