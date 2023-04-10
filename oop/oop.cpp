@@ -12,11 +12,18 @@ public:
 };
 
 class Matakuliah {
-public: 
+private: 
     int sks;
     string kode;
     string namaMK;
 public:
+    void inputMK; () {
+
+        cout << "\nMasukkan jumkalh SKS= ";
+        cin >> sks;
+        cout << "\nMasukkan Kode MK== ";
+        cin >> kode;
+    }
 };
 int main()
 {
