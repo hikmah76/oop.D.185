@@ -13,8 +13,9 @@ public:
 
 class Matakuliah {
 public: 
-    int nim;
-    string nama
+    int sks;
+    string kode;
+    string namaMK;
 
 };
 int main()
